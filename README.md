@@ -58,7 +58,7 @@ Questions about running the demo? [Open an issue](https://github.com/hieptlccc/j
 ## Useful links
 
 - 🏠 [CometChat Homepage](https://app.cometchat.com/signup)
-- 🏠 [CometChat Widget](https://prodocs.cometchat.com/v2.1/docs/web-chat-widget)
+- 🏠 [CometChat Widget](https://www.cometchat.com/docs/chat-widgets/web)
 - 🚀 [Create your free account](https://app.cometchat.com/apps)
 - 📚 [Documentation](https://prodocs.cometchat.com)
 - 👾 [GitHub](https://www.github.com/cometchat-pro)
